@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/121881874/230218313-db706314-4c0f-4d6b-8d6e-83053d88c503.png" width="25%" height="25%">
+<img src="https://user-images.githubusercontent.com/121881874/230218313-db706314-4c0f-4d6b-8d6e-83053d88c503.png" width="20%" height="20%">
 
 # Ironhack Projects
 
